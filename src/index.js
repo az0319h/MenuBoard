@@ -185,7 +185,7 @@ languageBtn.addEventListener('click', function(e) {
         languageBtn.innerHTML = "KOR"
         document.querySelector('.banner1_span').innerHTML = `As the first dining brand in Korea with a luxurious concept aimed at being a high-end pub, we strive to captivate our main consumer base, women. We have meticulously prepared to offer a unique experience that delivers a different level of satisfaction.`
         //이벤트 후 제거가능한 코드(시작)
-        document.querySelector('.banner2_sub_title_span').innerHTML = 'June Special Event'
+        document.querySelector('.banner2_sub_title_span').innerHTML = 'July Special Event'
         document.querySelector('.banner2_title_span').innerHTML = '50% Off Soju Event'
         document.querySelector('.banner2_span').innerHTML = 'Co&Tabe Dongducheon Branch 1st Anniversary Soju Discount Event! The discounted soju options are limited, so please ask our staff for details.'
         // menu buttons
