@@ -207,7 +207,7 @@ languageBtn.addEventListener('click', function(e) {
         document.querySelector('.banner1_span').innerHTML = `국내 최초 럭셔리 분위기의 컨셉으로 요리 주점을 지향하는 외식 브랜드는 주요 소비 계층인
         여심을 사로잡을 수 있어야 합니다. 만족의 온도가 다른 특별함으로 완벽히 준비했습니다.`
         //이벤트 후 제거가능한 코드(시작)
-        document.querySelector('.banner2_sub_title_span').innerHTML = '6월 스페셜 이벤트'
+        document.querySelector('.banner2_sub_title_span').innerHTML = '7월 스페셜 이벤트'
         document.querySelector('.banner2_title_span').innerHTML = '소주 50% 할인 이벤트'
         document.querySelector('.banner2_span').innerHTML = `코앤타베 동두천점 1주년 기념 소주 할인 행사! 할인 가능한 소주는 정해져 있으니 직원에게 문의 바랍니다.`
         //  menu buttons
